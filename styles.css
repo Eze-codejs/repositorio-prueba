@@ -5,3 +5,7 @@ body {
     border-radius: 2px;
     border-color: red;
 }
+.card-project {
+    padding: 20px;
+    background-color: #fff;
+}
